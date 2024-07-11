@@ -12,7 +12,7 @@ function Homes(){
         <>
         <Section/>
 
-       <h1>Raju Verma, TV shows and more</h1>
+       <h1>Raju Verma, rasju shows and more</h1>
        <h2>Watch anywhere. Cancel anytime.</h2>
        <h3>Ready to watch? Enter your email to create or restart your membership.</h3>
        <Container >
